@@ -1,6 +1,6 @@
 # Calculator
 
-A line-by-line calculator that's more than just a typical one
+A line-by-line calculator, written in C, that's more than just a typical one
 
 # Versions
 
