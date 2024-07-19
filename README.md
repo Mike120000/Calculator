@@ -5,10 +5,10 @@ A line-by-line calculator written in Rust.
 # Version:
 
 Most versions are pre-planned and won't be released until they are fully made and tested.
-Any released versions will have the release date written next to them.
+Any released versions will have the release date written next to them in the format DD-MM-YYYY HH:MM
 
 ## Alpha version:
-  * 0.1: Take input
+  * 0.1: Take input. 19-07-2024 18:02
   * 0.2: Check the syntax
   * 0.3: Perform basic binary operations(+, -, *, /)
   * 0.4: Decimal numbers
