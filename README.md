@@ -10,9 +10,10 @@ Any released versions will have the release date written next to them in the for
 ## Alpha version:
   * 0.1: Take input. 19-07-2024 18:02
   * 0.2: Check the syntax
-  * 0.3: Perform basic binary operations(+, -, *, /)
-  * 0.4: Decimal numbers
-  * 0.5: Basic unary operations(-)
-  * 0.6: Brackets
-  * 0.7: More operations(^, SQRT)
-  * 0.8: ...
+  * 0.3: Tokenization
+  * 0.4: Perform basic binary operations(+, -, *, /)
+  * 0.5: Decimal numbers
+  * 0.6: Basic unary operations(-)
+  * 0.7: Brackets
+  * 0.8: More operations(^, SQRT)
+  * 0.9: ...
